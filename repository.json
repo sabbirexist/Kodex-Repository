@@ -1,0 +1,9 @@
+{
+  "name": "Kodex Repository",
+  "description": "Kodex Cloudstream extensions — MovieLinkBD and more.",
+  "iconUrl": "https://raw.githubusercontent.com/sabbirexist/Kodex-Repository/main/repo-icon.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sabbirexist/Kodex-Repository/builds/plugins.json"
+  ]
+}
