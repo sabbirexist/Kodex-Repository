@@ -1,5 +1,27 @@
 [
     {
+        "iconUrl": "https://animesalt.cx/wp-content/uploads/cropped-AnimeSalticon-192x192.png",
+        "fileHash": "sha256-3ee056b7abf279218647d5337e72cd78f4fd99bbbf7d10a0d954f012cc16e66a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sabbirexist/Kodex-Repository",
+        "fileSize": 23773,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Kodex"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AnimeSalt",
+        "description": "AnimeSalt \u2014 Hindi/Tamil/Telugu/English/Japanese dubbed anime, movies & cartoons. Decrypts the abyssplayer stream data to serve direct video URLs.",
+        "url": "https://raw.githubusercontent.com/sabbirexist/Kodex-Repository/builds/AnimeSalt.cs3",
+        "name": "AnimeSalt"
+    },
+    {
         "iconUrl": "https://cdn.movielinkbd.app/favicon.ico",
         "fileHash": "sha256-6a90d7335f6608ff8a17c0ef8d2fc24bd32a5aa648989e57d32015ec7a105cf0",
         "apiVersion": 1,
