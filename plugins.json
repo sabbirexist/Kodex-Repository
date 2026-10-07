@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://animesalt.cx/wp-content/uploads/cropped-AnimeSalticon-192x192.png",
-        "fileHash": "sha256-dbf766b05409ade4d9145fa22ffe2b7578ccd588418cc7a15ec079df5ca8b8e1",
+        "fileHash": "sha256-3c521b899115c4196da1093ede6766a5febd4b6b711cc5330c9deff56f6bbb8d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sabbirexist/Kodex-Repository",
-        "fileSize": 36134,
+        "fileSize": 36068,
         "status": 1,
         "language": "hi",
         "authors": [
@@ -15,7 +15,7 @@
             "AnimeMovie",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "AnimeSalt",
         "description": "AnimeSalt \u2014 Hindi/Tamil/Telugu/English/Japanese dubbed anime, movies & cartoons. Decrypts the abyssplayer stream data to serve direct video URLs.",
         "url": "https://raw.githubusercontent.com/sabbirexist/Kodex-Repository/builds/AnimeSalt.cs3",
